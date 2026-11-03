@@ -1,0 +1,14 @@
+{
+  "name": "gano-bio",
+  "version": "1.0.0",
+  "description": "Link-in-bio page for Gano Digital",
+  "main": "server.js",
+  "scripts": {
+    "build": "echo build",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "UNLICENSED"
+}
