@@ -463,7 +463,7 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(PORT, () => {
-  console.log(\`gano-bio running on port \${PORT}\`);
+  console.log(`gano-bio running on port ${PORT}`);
 });
 
 server.on('error', (err) => {
